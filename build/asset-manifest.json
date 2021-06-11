@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.df088f94.chunk.css",
+    "main.css": "./static/css/main.06db4b35.chunk.css",
     "main.js": "./static/js/main.2758eba7.chunk.js",
     "main.js.map": "./static/js/main.2758eba7.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.0b10deac.js",
@@ -8,7 +8,7 @@
     "static/js/2.c204349a.chunk.js": "./static/js/2.c204349a.chunk.js",
     "static/js/2.c204349a.chunk.js.map": "./static/js/2.c204349a.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.df088f94.chunk.css.map": "./static/css/main.df088f94.chunk.css.map",
+    "static/css/main.06db4b35.chunk.css.map": "./static/css/main.06db4b35.chunk.css.map",
     "static/js/2.c204349a.chunk.js.LICENSE.txt": "./static/js/2.c204349a.chunk.js.LICENSE.txt",
     "static/media/hoover.css": "./static/media/Hoover-Variable.dfe4b542.ttf",
     "static/media/atkinson.css": "./static/media/atkinson-hyperlegible-regular-102-webfont.fdc50173.woff2",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.0b10deac.js",
     "static/js/2.c204349a.chunk.js",
-    "static/css/main.df088f94.chunk.css",
+    "static/css/main.06db4b35.chunk.css",
     "static/js/main.2758eba7.chunk.js"
   ]
 }

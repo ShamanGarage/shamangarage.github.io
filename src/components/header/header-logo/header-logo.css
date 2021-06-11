@@ -12,7 +12,7 @@ body { font-family: sans-serif; }
 
 
 .sphere{
-  border: 2px solid var(--black);
+  border: 1px solid var(--black);
   border-radius: 100%;
   background-color: var(--white);
   width: calc(var(---box-size) *0.8);
@@ -66,7 +66,7 @@ body { font-family: sans-serif; }
   position: absolute;
   width: calc(var(---box-size) *0.8);
   height: calc(var(---box-size) *0.8);
-  border: 2px solid black;
+  border: 1px solid black;
   line-height: 200px;
   font-size: 10px;
   font-weight: bold;

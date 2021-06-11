@@ -19,12 +19,12 @@ function Contact(){
     <p className="mail"><a href="mailto:contact@shamansgarage.com">contact@shamansgarage.com</a></p>
 
     <p className="link-title"> También puedes encontrarnos en:</p>
-      <p className="link"><a href="" target="__blank"><i className="fa fa-instagram" aria-hidden="true"></i> Instagram</a></p>
-      <p className="link"><a href="" target="__blank"><i className="fa fa-twitter" aria-hidden="true"></i> Twitter</a></p>
-      <p className="link"><a href="" target="__blank"><i className="fa fa-twitch" aria-hidden="true"></i> Twitch</a></p>
-      <br/><p className="link"><a href="" target="__blank"><i className="fa fa-youtube-play" aria-hidden="true"></i> YouTube</a></p>
-      <p className="link"><a href="" target="__blank"><i className="fa fa-discord" aria-hidden="true"></i> Discord</a></p>
-      <p className="link"><a href="" target="__blank"><i className="fa fa-github" aria-hidden="true"></i> Github</a></p>
+      <p className="link"><a href="https://www.instagram.com/shamansgarage/" target="__blank"><i className="fa fa-instagram" aria-hidden="true"></i> Instagram</a></p>
+      <p className="link"><a href="https://twitter.com/ShamansGarage" target="__blank"><i className="fa fa-twitter" aria-hidden="true"></i> Twitter</a></p>
+      <p className="link"><a href="https://www.twitch.tv/shamansgarage" target="__blank"><i className="fa fa-twitch" aria-hidden="true"></i> Twitch</a></p>
+      <br/><p className="link"><a href="https://www.youtube.com/channel/UCT-VvRxu5z-BnZQzPTel03w" target="__blank"><i className="fa fa-youtube-play" aria-hidden="true"></i> YouTube</a></p>
+      <p className="link"><a href="https://discord.gg/nKwPpxXhSP" target="__blank"><i className="fa fa-discord" aria-hidden="true"></i> Discord</a></p>
+      <p className="link"><a href="https://github.com/ShamansGarage" target="__blank"><i className="fa fa-github" aria-hidden="true"></i> Github</a></p>
 
     </div>
     </div>
