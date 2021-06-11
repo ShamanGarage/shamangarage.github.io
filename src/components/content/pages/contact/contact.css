@@ -1,0 +1,22 @@
+.contact a{
+  padding: 5px;
+  margin: 5px;
+}
+
+.contact .link-title {
+  margin-bottom: 10px;
+  margin-top: 30px;
+}
+
+.contact .mail{
+  margin-bottom:30px;
+  margin-top: 0px;
+    font-weight: bold;
+}
+
+.contact .link{
+  margin-bottom: 15px;
+  margin-top: 10px;
+  display: inline-block;
+  font-weight: bold;
+}

@@ -1,0 +1,43 @@
+.card-pack{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card-container{
+  max-width: calc(max(50%, 450px));
+  margin: auto;
+}
+
+.card{
+  background-color: var(--black);
+  color: var(--white);
+  margin: 15px;
+  padding: 20px;
+  padding-bottom: 10px;
+}
+
+.card h3::selection,.card p::selection, h3 span::selection{
+  background-color: var(--white);
+  color: var(--black);
+}
+
+.link-container{
+  margin-top: 30px;
+  text-align: right;
+}
+
+.card a{
+  color: var(--white);
+  padding: 5px;
+  font-style: italic;
+  text-decoration: none;
+
+  transition: none;
+}
+
+.card a:hover{
+  color: var(--black);
+  background: var(--white);
+
+}
