@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd18509e.chunk.css",
-    "main.js": "/static/js/main.5cf9c162.chunk.js",
-    "main.js.map": "/static/js/main.5cf9c162.chunk.js.map",
+    "main.css": "/static/css/main.cd794aea.chunk.css",
+    "main.js": "/static/js/main.35392a3d.chunk.js",
+    "main.js.map": "/static/js/main.35392a3d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.57a945c4.js",
     "runtime-main.js.map": "/static/js/runtime-main.57a945c4.js.map",
     "static/js/2.c204349a.chunk.js": "/static/js/2.c204349a.chunk.js",
     "static/js/2.c204349a.chunk.js.map": "/static/js/2.c204349a.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.dd18509e.chunk.css.map": "/static/css/main.dd18509e.chunk.css.map",
+    "static/css/main.cd794aea.chunk.css.map": "/static/css/main.cd794aea.chunk.css.map",
     "static/js/2.c204349a.chunk.js.LICENSE.txt": "/static/js/2.c204349a.chunk.js.LICENSE.txt",
     "static/media/hoover.css": "/static/media/Hoover-Variable.dfe4b542.ttf",
     "static/media/atkinson.css": "/static/media/atkinson-hyperlegible-regular-102-webfont.fdc50173.woff2",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.57a945c4.js",
     "static/js/2.c204349a.chunk.js",
-    "static/css/main.dd18509e.chunk.css",
-    "static/js/main.5cf9c162.chunk.js"
+    "static/css/main.cd794aea.chunk.css",
+    "static/js/main.35392a3d.chunk.js"
   ]
 }
